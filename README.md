@@ -1,6 +1,5 @@
 ## GTorrent
-steps to setup project and functinality are as in video
-[![here]()](https://www.youtube.com/watch?v=mtGjCmbHYyM) and 
-[![here]()](https://www.youtube.com/watch?v=dfSfhGzVxt8)
+A large file is divided in parts and is uploaded to different drive accounts and we use multithreading and asyncio library to download and combine them together which is faster than traditional downloading and torrents.
+
 
 
